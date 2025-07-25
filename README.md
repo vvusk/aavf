@@ -11,11 +11,10 @@ Authors: Viska Mutiawani, Naeha Sharif, Nigel Morlet, Siobhan Manners, Ghulam Mu
 
 ```plaintext
 ├── code/                # Source code for experiments
-├── dataset/                # Dataset or links/instructions to access data
+├── dataset/             # Dataset or links/instructions to access data
 ├── images/              # Figures and visualization results
 ├── results/             # Output files, metrics, logs
 ├── notebooks/           # Jupyter notebooks for demos or analysis
-├── configs/             # Configuration files for experiments
 ├── LICENSE
 ├── requirements.txt
 └── README.md
