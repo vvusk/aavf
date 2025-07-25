@@ -119,7 +119,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-* 📧 Email: [your.email@domain.com](mailto:viska.mutiawani@research.uwa.edu.au)
+* 📧 Email: [uwa email](mailto:viska.mutiawani@research.uwa.edu.au)
 * 🌐 Website: 
 * 🧑 GitHub: 
 
