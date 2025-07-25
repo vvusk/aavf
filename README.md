@@ -2,7 +2,7 @@
 Official repository for the paper that will be presented in 12th OMIA workshop (2025).
 
 Authors: Viska Mutiawani, Naeha Sharif, Nigel Morlet, Siobhan Manners, Ghulam Mubashar Hassan 
-> Published in *Conference/Journal Name*, Year.  
+> Published in *Conference/Journal Name*, Year.  (Will be update once published)
 > [Link to paper](https://doi.org/xxx) 
 
 ---
@@ -58,7 +58,7 @@ You can find generated figures and outputs in the `images/` and `results/` folde
 
 ### Example Visualization
 
-![Example Figure](images/example.png)
+![Visual Field sensitivity value](images/VF.drawio.png)
 
 ---
 
@@ -86,7 +86,7 @@ dataset/
 
 ## 📜 Citation
 
-If you use this code or our paper, please cite:
+If you use this code or our paper, please cite: (will be updated once published)
 
 ```bibtex
 @inproceedings{your_bibtex_key,
@@ -100,7 +100,8 @@ If you use this code or our paper, please cite:
 
 ## ⭐ Acknowledgements
 We use the Archetypal Analysis code provided in [this site](https://researchdata.edu.au/archetypal-analysis-package/1424520) which is the same as archetypes library in Python.
-The initialization method was adapted from [Mair](https://github.com/smair/archetypalanalysis-initialization). While the AAcoreset code was adapted from [Mair](https://github.com/smair/archetypalanalysis-coreset)
+The initialization method was adapted from [Mair](https://github.com/smair/archetypalanalysis-initialization). 
+While the AAcoreset code was adapted from [Mair](https://github.com/smair/archetypalanalysis-coreset)
 
 ---
 
