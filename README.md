@@ -56,7 +56,7 @@ jupyter notebook notebooks/demo.ipynb
 
 You can find generated figures and outputs in the `images/` and `results/` folders.
 
-### Example Visualization
+### Visualization of Visual Field sensitivity value
 
 ![Visual Field sensitivity value](images/VF.drawio.png)
 
@@ -79,6 +79,8 @@ dataset/
 ---
 
 ## 📦 Framework
+
+### Methodology to find generalized VF patterns
 ![Methodology to find generalized VF patterns](images/methodology.drawio.png)
 
 
