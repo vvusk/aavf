@@ -14,7 +14,6 @@ Authors: Viska Mutiawani, Naeha Sharif, Nigel Morlet, Siobhan Manners, Ghulam Mu
 ├── dataset/                # Dataset or links/instructions to access data
 ├── images/              # Figures and visualization results
 ├── results/             # Output files, metrics, logs
-├── models/              # Trained model weights (if applicable)
 ├── notebooks/           # Jupyter notebooks for demos or analysis
 ├── configs/             # Configuration files for experiments
 ├── LICENSE
@@ -38,8 +37,8 @@ cd your-repo-name
 We recommend using a virtual environment:
 
 ```bash
-python -m venv venv
-source venv/bin/activate      # On Windows: venv\Scripts\activate
+python -m vfenv vfenv
+source vfenv/bin/activate      # On Windows: vfenv\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -80,7 +79,7 @@ dataset/
 ---
 
 ## 📦 Framework
-
+![Methodology to find generalized VF patterns](images/methodology.drawio.png)
 
 
 ---
@@ -99,17 +98,14 @@ If you use this code or our paper, please cite:
 }
 ```
 
+## ⭐ Acknowledgements
+We use the Archetypal Analysis code provided in [this site](https://researchdata.edu.au/archetypal-analysis-package/1424520) which is the same as archetypes library in Python.
+The initialization method was adapted from [Mair](https://github.com/smair/archetypalanalysis-initialization). While the AAcoreset code was adapted from [Mair](https://github.com/smair/archetypalanalysis-coreset)
+
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! If you'd like to improve the code or report issues:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add your feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a pull request
+## 🤝 Q & A
+You can check the contact if there is any question.
 
 ---
 
