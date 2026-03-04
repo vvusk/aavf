@@ -1,9 +1,9 @@
 # 📄 Generalized Visual Field Pattern Discovery Using Archetypal Analysis
-Official repository for the paper that will be presented in 12th OMIA workshop (2025).
+Official repository for the paper that was presented in 12th OMIA workshop (2025).
 
 Authors: Viska Mutiawani, Naeha Sharif, Nigel Morlet, Siobhan Manners, Ghulam Mubashar Hassan 
-> Published in *Conference/Journal Name*, Year.  (Will be update once published)
-> [Link to paper](https://doi.org/xxx) 
+> Presented in *International Workshop on Ophthalmic Medical Image Analysis*, 2025.  
+> [Link to paper](https://doi.org/10.1007/978-3-032-10351-2_6)]
 
 ---
 
@@ -87,7 +87,7 @@ dataset/
 
 ## 📜 Citation
 
-If you use this code or our paper, please cite: (will be updated once published)
+If you use this code or our paper, please cite: 
 
 ```bibtex
 @inproceedings{mutiawani2025generalized,
