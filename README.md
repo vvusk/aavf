@@ -90,12 +90,13 @@ dataset/
 If you use this code or our paper, please cite: (will be updated once published)
 
 ```bibtex
-@inproceedings{your_bibtex_key,
-  title     = {Title of Your Paper},
-  author    = {Your Name and Coauthor Name},
-  booktitle = {Conference or Journal},
-  year      = {202X},
-  url       = {https://your.paper.link}
+@inproceedings{mutiawani2025generalized,
+  title={Generalized Visual Field Pattern Discovery Using Archetypal Analysis},
+  author={Mutiawani, Viska and Sharif, Naeha and Morlet, Nigel and Manners, Siobhan and Hassan, Ghulam Mubashar},
+  booktitle={International Workshop on Ophthalmic Medical Image Analysis},
+  pages={54--64},
+  year={2025},
+  organization={Springer}
 }
 ```
 
