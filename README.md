@@ -64,7 +64,7 @@ You can find generated figures and outputs in the `images/` and `results/` folde
 ## 📁 Dataset
 
 * **Dataset Name**: UWHVF
-* **Source**: [\[Download Link or DOI]](https://github.com/uw-biomedical-ml/uwhvf)
+* **Source**: [Download Link](https://github.com/uw-biomedical-ml/uwhvf)
 * **License**: BSD-3
 
 Place the dataset in the following structure:
